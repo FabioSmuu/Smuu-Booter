@@ -12,7 +12,8 @@ Aviso: estes recursos foram removidos por questões de segurança, pois este pro
 - Efetividade contra CloudFlare.
 - Spoofing na rede OVH
 - Hammer em conexão com apache 1.X a 2.X/IIS
-- Limitação de threads
+
+Este projeto não possui limitação de thread e pode ser executado de forma multua.
 
 ### Mas afinal, oque é este tal Booter?
 Pois bem, um booter é um ataque de "negação de serviço" usando uma lista com diversas proxys contidas nelas.
