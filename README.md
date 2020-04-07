@@ -21,4 +21,15 @@ Estas proxys são responsaeis por passar a uma certificação SSL falsa e inseri
 
 Cada booter executado tem como função rodar uma proxy e um certificado para que enfim seja enviada uma contia fixa de threads efetuando uma sobrecarga an conexão, resultando em um statuscode de forbidden, bad request, not found dentre outros...
 
+| Dependencias |Versão|
+|-|-|
+| Jint | 2.11.58 |
+| System.IO | 4.3.0 |
+| System.Runtime | 4.3.1 |
+| System.Net.Http | 4.3.4 |
+| System.Security.Cryptography.Encoding | 4.3.0 |
+| System.Security.Cryptography.Algorithms | 4.3.1 |
+| System.Security.Cryptography.Primitives | 4.3.0 |
+| System.Security.Cryptography.X509Certificates | 4.3.2 |
+
 **Obrigado pela sua atenção!**
