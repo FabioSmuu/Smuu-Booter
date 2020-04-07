@@ -23,6 +23,7 @@ console.log('a' + se.FgRed + se.BgCyan + 'c')
 console.log('d' + se.FgRed + se.BgCyan + 'e' + se.Bright + se.FgMagenta + 'f')
 ```
 Resultado:
+#
 ![N|Solid](https://i.imgur.com/yW5n5LJ.png)
 
 Outra forma de efetua este mesmo processo, mas de uma maneira mais efetiva e performatica seria usando a função .log da StringEdit
