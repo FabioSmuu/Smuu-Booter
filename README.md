@@ -4,7 +4,7 @@
 
 Este sistema consiste em explorar uma falha ddos em hospedagens e vps.
 
-> Aviso: estes recursos foram removidos por questões de segurança, pois este projeto se trata de um estudo e não um ataque, então suas ações sob qualquer uso da ferramente, não dirija-se a min.
+> **Aviso**: estes recursos foram removidos por questões de segurança, pois este projeto se trata de um estudo e não um ataque, então suas ações sob qualquer uso da ferramente, não dirija-se a min.
 
  Antes de rodar o projeto de uma olhada no meu repositorio [ArquivoINI](https://github.com/FabioSmuu/ArquivoINI), pois sem este arquivo não terá como configura-lo.
 
