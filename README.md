@@ -16,9 +16,13 @@ Este projeto não possui limitação de thread e pode ser executado de forma mul
 ### Mas a final, oque é este tal Booter?
 Pois bem, um booter é uma aplicação para ataque de "negação de serviço" usando uma lista de proxy.
 
-Estas proxys são responsáveis por passar uma certificação SSL falsa e inseri cookies direto ao alvo (em termos leigos).
+Estas proxys são responsáveis por passar uma certificação SSL falsa e inserir cookies em um alvo específico.
 
-Cada booter executado tem como função rodar uma proxy e um certificado para que enfim seja enviada em algumas threads, efetuando uma sobrecarga na conexão, resultando em um statuscode de forbidden, bad request, not found dentre outros...
+Cada booter executado Usará uma proxy aleatória da lista para o spoofing do certificado SSL.
+
+Limitei uma proxi por terminal, mas mantive a confirmação das threads.
+
+Fique de olho nos statuscode: forbidden, bad request, not found dentre outros...
 
 | Dependencias |Versão|
 |-|-|
