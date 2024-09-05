@@ -4,7 +4,7 @@ Esta aplicação consiste em explorar uma falha ddos em servições como hospeda
 
 > **Aviso**: estes recursos foram removidos por questões de segurança, pois este projeto se trata de um estudo e não uma ferramenta para ataque, então suas ações sob qualquer uso da ferramente, não dirija-se a min.
 
- Antes de rodar o projeto de uma olhada no meu repositorio [ArquivoINI](https://github.com/FabioSmuu/ArquivoINI), poi, aplicação depende desta class.
+ Antes de rodar o projeto de uma olhada no meu repositorio [ArquivoINI](https://github.com/FabioSmuu/ArquivoINI).
 
 ### Recursos removido por questões de segurança/ética:
 - Bypass(Efetividade) em WAF.
